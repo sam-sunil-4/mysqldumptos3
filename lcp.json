@@ -1,0 +1,17 @@
+{
+"Rules":[
+{
+"Status":"Enabled",
+"Prefix":"",
+"Expiration":
+
+{ "Days":5 }
+,
+"AbortIncompleteMultipartUpload":
+
+{ "DaysAfterInitiation": 5 }
+,
+"ID":"rwbuc"
+}
+]
+}
